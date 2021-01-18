@@ -1,5 +1,5 @@
 package week07;
-
+//yangyang 632115511
 public class Dog extends Pets{
     String size;
     String hair;

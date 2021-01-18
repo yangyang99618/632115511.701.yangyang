@@ -1,5 +1,5 @@
 package week07;
-
+//yangyang 632115511
 public class OutPut {
 	public static void main(String[] args) {
         Dog ani = new Dog("Dog");
